@@ -1,5 +1,6 @@
 3696191cc4684d089ee56a83dcf22905
 //race
+//士大夫首发式
 #include<iostream>
 #include<string>
 #include<cmath>
